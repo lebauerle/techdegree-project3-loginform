@@ -1,7 +1,4 @@
-# techdegree-project3-loginform
-3rd project for team treehouse techdegree
+# Techdegree-project3-loginform
+**3rd project for team treehouse techdegree**
 
-The login form provides js form validation and used js to make it more dynamic.
-I added a lot of comments to make it easy to understand.
- 
-gg lenni
+A simple, interactive loginform with input validation for a fictional conference. The validation does not rely on the build in HTML validation. JavaScript is used additionally.
